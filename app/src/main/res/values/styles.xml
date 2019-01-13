@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="i2c">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">#000000</item>
+    </style>
+
 </resources>
